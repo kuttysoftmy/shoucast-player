@@ -1,2 +1,2 @@
-# shoucast-player
-shoucast-player
+# shoutcast-player
+shoutcast-player
