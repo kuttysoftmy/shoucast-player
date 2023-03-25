@@ -1,0 +1,54 @@
+.container {
+	max-width: 500px;
+	margin: 0 auto;
+	padding: 20px;
+	background-color: #f7f7f7;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+	border-radius: 5px;
+	text-align: center;
+}
+
+h1 {
+	font-size: 32px;
+	margin-bottom: 20px;
+}
+
+form {
+	display: inline-block;
+	margin-bottom: 20px;
+}
+
+label {
+	display: block;
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+
+input[type="text"] {
+	font-size: 16px;
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	width: 100%;
+	margin-bottom: 20px;
+	box-sizing: border-box;
+}
+
+button[type="submit"] {
+	font-size: 16px;
+	padding: 10px 20px;
+	background-color: #4CAF50;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: all 0.3s ease-in-out;
+}
+
+button[type="submit"]:hover {
+	background-color: #3e8e41;
+}
+
+audio {
+	width: 100%;
+}
